@@ -1,0 +1,11 @@
+
+mainmenu:
+  home:
+    logo_image: "https://i.imgur.com/6K7yhxp.jpg"
+    url: "/"
+    text: "Nazaj"
+    icon_class: "fa-home"
+  aboutme:
+    url: "/about/"
+    text: "O Meni"
+    icon_class: "fa-info-circle"
